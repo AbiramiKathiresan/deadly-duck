@@ -6,7 +6,7 @@ Here is a video demo of the game!: https://youtu.be/8cy-3_0fy8Y
 
 ### Running the Game
 
-You can pull this repo and run the game by running these commands:
+You can pull this repo and play the game by running these commands:
 
 ```bash
 > javac DeadlyDuck.java
